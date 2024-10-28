@@ -1,0 +1,9 @@
+# Archivos y carpetas específicas de Visual Studio Code
+.vscode/
+
+# Archivos temporales del sistema
+.DS_Store
+
+
+# Archivos de respaldo del editor
+*.tmp
