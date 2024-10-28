@@ -1,0 +1,13 @@
+body {
+    font-size: small;
+    background-color: #f3f3f3;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+    font-size: 200%;   
+    color: #2bb4c8;
+}
+h2 {
+    font-size: 150%;   
+    color: #29bea7;
+}
